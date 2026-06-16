@@ -6,8 +6,7 @@ Reproducible analysis code for: *"The Causal Effect of Universal Health Coverage
 
 ```bash
 # Clone and run
-git clone <this-repo>
-cd <repo>
+
 python src/run_all.py
 ```
 
