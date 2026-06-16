@@ -113,12 +113,4 @@ Install: `pip install numpy scipy pandas matplotlib seaborn statsmodels requests
 
 MIT. Data from WHO and World Bank are subject to their respective terms of use.
 
-## Citation
 
-If you use this code or data, please cite:
-
-> [Authors]. The Causal Effect of Universal Health Coverage on Maternal and Child Mortality: A Generalized Synthetic Control Analysis of 184 Countries, 2000–2021. *The Lancet*, 2026.
-
-## Contact
-
-[Your contact information]
